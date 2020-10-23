@@ -13,3 +13,6 @@ Challenge set up and assisted by B9lab (https://academy.b9lab.com)
 	2.2 And read even more (Truffle, Infura, ...)
 3. Deployed contract on Ropsten via truffle
 4. Invoked `prophesy()` from frontend with braggingRights [see on Etherscan](https://ropsten.etherscan.io/tx/0x5d4c9b21dc9e1f7e28be09c27a0ccd9668a9bb8cff753582ecd5d2f7dae9f2b7)
+
+
+![Screenshot_ChallangeNostradamus_Ropsten](https://github.com/Dakavon/B9labETHsub-NostradamusReact/blob/master/screenshots/Screenshot_Challange%20Nostradamus_Ropsten.png)
